@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Search Solver",
+  "description": "An advanced research assistant powered by Gemini 2.5 Flash and Google Search Grounding to solve complex information retrieval tasks.",
+  "requestFramePermissions": []
+}
